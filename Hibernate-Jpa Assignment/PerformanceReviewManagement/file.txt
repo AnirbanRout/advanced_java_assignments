@@ -1,0 +1,21 @@
+Fields:
+ 
+id (Primary Key)
+ 
+employeeCode
+ 
+rating (1–5)
+ 
+reviewDate
+ 
+comments
+ 
+Implement the following:
+ 
+Insert performance review.
+ 
+Update review.
+ 
+Delete review.
+ 
+Fetch all reviews of a given employee
